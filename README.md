@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aref</h1>
+<img src="https://i.ibb.co/1WGtMZ4/523187108-2166970047148320-5332972217578250031-n.png">
+ <h1 align="center">Hi 👋, I'm Aref</h1>
 <h3 align="center">Professional web design and developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-aref&label=Profile%20views&color=0e75b6&style=flat" alt="dev-aref" /> </p>
