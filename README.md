@@ -1,4 +1,4 @@
-<img src="[https://i.ibb.co/1WGtMZ4/523187108-2166970047148320-5332972217578250031-n.png](https://i.ibb.co/FLkyVm23/download-3.png)">
+<img src="https://i.ibb.co/FLkyVm23/download-3.png">
  <h1 align="center">Hi 👋, I'm Aref</h1>
 <h3 align="center">Professional web design and developer</h3>
 
